@@ -1,0 +1,36 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34622.214
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LoginService", "SleepChat\LoginService.csproj", "{34468FCE-D693-4081-990A-131FCCF51C7C}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Services", "Services", "{05D599A1-4CED-4402-AA4F-09CC9BA8028E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UserService", "UserService\UserService.csproj", "{A06CE441-6039-453E-B925-AC17708C9E7F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{34468FCE-D693-4081-990A-131FCCF51C7C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{34468FCE-D693-4081-990A-131FCCF51C7C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{34468FCE-D693-4081-990A-131FCCF51C7C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{34468FCE-D693-4081-990A-131FCCF51C7C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A06CE441-6039-453E-B925-AC17708C9E7F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A06CE441-6039-453E-B925-AC17708C9E7F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A06CE441-6039-453E-B925-AC17708C9E7F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A06CE441-6039-453E-B925-AC17708C9E7F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{A06CE441-6039-453E-B925-AC17708C9E7F} = {05D599A1-4CED-4402-AA4F-09CC9BA8028E}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {13CE22BB-0B00-469B-9CF3-E40E7DBC490B}
+	EndGlobalSection
+EndGlobal

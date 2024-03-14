@@ -1,0 +1,45 @@
+[
+  {
+    "ContainingType": "UserService.RoutesManipulations.RoutesUserExtension\u002B\u003C\u003Ec",
+    "Method": "\u003CMapGroupUser\u003Eb__0_1",
+    "RelativePath": "user/getAll",
+    "HttpMethod": "GET",
+    "IsController": false,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": [
+      {
+        "Type": "System.Void",
+        "MediaTypes": [],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "UserService.RoutesManipulations.RoutesUserExtension\u002B\u003C\u003Ec",
+    "Method": "\u003CMapGroupUser\u003Eb__0_0",
+    "RelativePath": "user/updateById/{id}",
+    "HttpMethod": "PUT",
+    "IsController": false,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      },
+      {
+        "Name": "newUser",
+        "Type": "UserModel",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "System.Void",
+        "MediaTypes": [],
+        "StatusCode": 200
+      }
+    ]
+  }
+]

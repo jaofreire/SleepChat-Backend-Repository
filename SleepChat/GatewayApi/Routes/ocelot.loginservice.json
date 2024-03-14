@@ -1,0 +1,18 @@
+﻿{
+  "Routes": [
+    {
+      "UpstreamPathTemplate": "/gateway/login/{everything}",
+      "UpstreamHttpMethod": [ "GET", "POST" ],
+      "DownstreamPathTemplate": "/login/{everything}",
+      "DownstreamScheme": "https",
+      "DownstreamHostAndPorts": [
+        {
+          "Host": "localhost",
+          "Port": 7012
+
+        }
+      ],
+      "Swaggerkey": "LoginService"
+    }
+  ]
+}

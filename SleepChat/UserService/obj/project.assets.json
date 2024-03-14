@@ -3226,11 +3226,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\estudo C#\\SleepChat-project\\SleepChat\\UserService\\UserService.csproj",
+      "projectUniqueName": "E:\\estudo C#\\SleepChat-project\\SleepChat-Backend-Repository\\SleepChat\\UserService\\UserService.csproj",
       "projectName": "UserService",
-      "projectPath": "E:\\estudo C#\\SleepChat-project\\SleepChat\\UserService\\UserService.csproj",
+      "projectPath": "E:\\estudo C#\\SleepChat-project\\SleepChat-Backend-Repository\\SleepChat\\UserService\\UserService.csproj",
       "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
-      "outputPath": "E:\\estudo C#\\SleepChat-project\\SleepChat\\UserService\\obj\\",
+      "outputPath": "E:\\estudo C#\\SleepChat-project\\SleepChat-Backend-Repository\\SleepChat\\UserService\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\User\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -3248,8 +3248,8 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "projectReferences": {
-            "E:\\estudo C#\\SleepChat-project\\SleepChat\\SleepChat\\LoginService.csproj": {
-              "projectPath": "E:\\estudo C#\\SleepChat-project\\SleepChat\\SleepChat\\LoginService.csproj"
+            "E:\\estudo C#\\SleepChat-project\\SleepChat-Backend-Repository\\SleepChat\\SleepChat\\LoginService.csproj": {
+              "projectPath": "E:\\estudo C#\\SleepChat-project\\SleepChat-Backend-Repository\\SleepChat\\SleepChat\\LoginService.csproj"
             }
           }
         }

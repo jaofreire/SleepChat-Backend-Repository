@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "RffyKGKApnScgtq1Sas1iznPyC136ZoCPsJOVxoXEkUE/15o2dtBjpYfFogY4mwUPcL8y40DEU9vsnAunPUGEw==",
+  "dgSpecHash": "3jKeqTDpG3rEmQwnQj4tQ8tBK7rafVF8LMnaMUUbr+MitFjE9oBdtFokkJK0um56FWGeYCd7zEKGhMSBdYxHkw==",
   "success": true,
-  "projectFilePath": "E:\\estudo C#\\SleepChat-project\\SleepChat\\UserService\\UserService.csproj",
+  "projectFilePath": "E:\\estudo C#\\SleepChat-project\\SleepChat-Backend-Repository\\SleepChat\\UserService\\UserService.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\User\\.nuget\\packages\\azure.core\\1.35.0\\azure.core.1.35.0.nupkg.sha512",
     "C:\\Users\\User\\.nuget\\packages\\azure.identity\\1.10.3\\azure.identity.1.10.3.nupkg.sha512",

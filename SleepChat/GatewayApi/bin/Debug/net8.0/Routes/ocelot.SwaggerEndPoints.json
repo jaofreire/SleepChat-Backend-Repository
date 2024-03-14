@@ -1,0 +1,25 @@
+﻿{
+  "SwaggerEndPoints": [
+    {
+      "Key": "LoginService",
+      "Config": [
+        {
+          "Name": "Login",
+          "Version": "v1",
+          "Url": "https://localhost:7012/swagger/v1/swagger.json"
+        }
+      ]
+    },
+    {
+      "Key": "UserService",
+      "Config": [
+        {
+          "Name": "User",
+          "Version": "v1",
+          "Url": "https://localhost:7018/swagger/v1/swagger.json"
+        }
+      ]
+    }
+  ]
+}
+

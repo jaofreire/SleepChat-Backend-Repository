@@ -11,6 +11,7 @@ namespace UserService.RoutesManipulations
             {
                 var userUpdate = GetById(id, db);
 
+                newUser.Id = id;
                 userUpdate.Name = newUser.Name;
                 userUpdate.Email = newUser.Email;
                 userUpdate.Password = newUser.Password;
@@ -20,6 +21,26 @@ namespace UserService.RoutesManipulations
 
                 return Results.Ok(newUser);
             });
+
+            group.MapPut("/updateByName/{name}", async (ApiDbContext db, string? name, UserModel newUser) =>
+            {
+                var userUpdate = await db.Users.FirstOrDefaultAsync(x => x.Name == name) ??
+                 throw new Exception("User not found");
+
+                newUser.Id = userUpdate.Id;
+                userUpdate.Name = newUser.Name;
+                userUpdate.Email = newUser.Email;
+                userUpdate.Password = newUser.Password;
+
+                db.Users.Update(userUpdate);
+                await db.SaveChangesAsync();
+
+                return Results.Ok(newUser);
+            });
+
+
+            group.MapGet("/byId/{id}", GetById);
+           
 
             group.MapGet("/getAll", async (ApiDbContext db) =>
             {

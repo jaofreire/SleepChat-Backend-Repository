@@ -1,13 +1,13 @@
 {
   "Version": 1,
-  "Hash": "TKiJNC6PFKHsoByaEnViAgLBXna+BREYLxWYqivP9RY=",
+  "Hash": "z6AleSgYHRP1NQhFdxnNDIXFPcCBepdhD4ClwpditYs=",
   "Source": "UserService",
   "BasePath": "_content/UserService",
   "Mode": "Default",
   "ManifestType": "Build",
   "ReferencedProjectsConfiguration": [
     {
-      "Identity": "E:\\estudo C#\\SleepChat-project\\SleepChat\\SleepChat\\LoginService.csproj",
+      "Identity": "E:\\estudo C#\\SleepChat-project\\SleepChat-Backend-Repository\\SleepChat\\SleepChat\\LoginService.csproj",
       "Version": 2,
       "Source": "LoginService",
       "GetPublishAssetsTargets": "ComputeReferencedStaticWebAssetsPublishManifest;GetCurrentProjectPublishStaticWebAssetItems",

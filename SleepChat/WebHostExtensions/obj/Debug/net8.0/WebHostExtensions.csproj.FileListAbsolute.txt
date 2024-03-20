@@ -1,0 +1,16 @@
+E:\estudo C#\SleepChat-project\SleepChat-Backend-Repository\SleepChat\WebHostExtensions\bin\Debug\net8.0\WebHostExtensions.deps.json
+E:\estudo C#\SleepChat-project\SleepChat-Backend-Repository\SleepChat\WebHostExtensions\bin\Debug\net8.0\WebHostExtensions.dll
+E:\estudo C#\SleepChat-project\SleepChat-Backend-Repository\SleepChat\WebHostExtensions\bin\Debug\net8.0\WebHostExtensions.pdb
+E:\estudo C#\SleepChat-project\SleepChat-Backend-Repository\SleepChat\WebHostExtensions\obj\Debug\net8.0\WebHostExtensions.csproj.AssemblyReference.cache
+E:\estudo C#\SleepChat-project\SleepChat-Backend-Repository\SleepChat\WebHostExtensions\obj\Debug\net8.0\WebHostExtensions.GeneratedMSBuildEditorConfig.editorconfig
+E:\estudo C#\SleepChat-project\SleepChat-Backend-Repository\SleepChat\WebHostExtensions\obj\Debug\net8.0\WebHostExtensions.AssemblyInfoInputs.cache
+E:\estudo C#\SleepChat-project\SleepChat-Backend-Repository\SleepChat\WebHostExtensions\obj\Debug\net8.0\WebHostExtensions.AssemblyInfo.cs
+E:\estudo C#\SleepChat-project\SleepChat-Backend-Repository\SleepChat\WebHostExtensions\obj\Debug\net8.0\WebHostExtensions.csproj.CoreCompileInputs.cache
+E:\estudo C#\SleepChat-project\SleepChat-Backend-Repository\SleepChat\WebHostExtensions\obj\Debug\net8.0\WebHostExtensions.sourcelink.json
+E:\estudo C#\SleepChat-project\SleepChat-Backend-Repository\SleepChat\WebHostExtensions\obj\Debug\net8.0\WebHostExtensions.dll
+E:\estudo C#\SleepChat-project\SleepChat-Backend-Repository\SleepChat\WebHostExtensions\obj\Debug\net8.0\refint\WebHostExtensions.dll
+E:\estudo C#\SleepChat-project\SleepChat-Backend-Repository\SleepChat\WebHostExtensions\obj\Debug\net8.0\WebHostExtensions.pdb
+E:\estudo C#\SleepChat-project\SleepChat-Backend-Repository\SleepChat\WebHostExtensions\obj\Debug\net8.0\ref\WebHostExtensions.dll
+E:\estudo C#\SleepChat-project\SleepChat-Backend-Repository\SleepChat\WebHostExtensions\bin\Debug\net8.0\KeysRepository.dll
+E:\estudo C#\SleepChat-project\SleepChat-Backend-Repository\SleepChat\WebHostExtensions\bin\Debug\net8.0\KeysRepository.pdb
+E:\estudo C#\SleepChat-project\SleepChat-Backend-Repository\SleepChat\WebHostExtensions\obj\Debug\net8.0\WebHostE.74F95557.Up2Date

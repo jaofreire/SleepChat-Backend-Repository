@@ -1,0 +1,12 @@
+E:\estudo C#\SleepChat-project\SleepChat-Backend-Repository\SleepChat\KeysRepository\bin\Debug\net8.0\KeysRepository.deps.json
+E:\estudo C#\SleepChat-project\SleepChat-Backend-Repository\SleepChat\KeysRepository\bin\Debug\net8.0\KeysRepository.dll
+E:\estudo C#\SleepChat-project\SleepChat-Backend-Repository\SleepChat\KeysRepository\bin\Debug\net8.0\KeysRepository.pdb
+E:\estudo C#\SleepChat-project\SleepChat-Backend-Repository\SleepChat\KeysRepository\obj\Debug\net8.0\KeysRepository.GeneratedMSBuildEditorConfig.editorconfig
+E:\estudo C#\SleepChat-project\SleepChat-Backend-Repository\SleepChat\KeysRepository\obj\Debug\net8.0\KeysRepository.AssemblyInfoInputs.cache
+E:\estudo C#\SleepChat-project\SleepChat-Backend-Repository\SleepChat\KeysRepository\obj\Debug\net8.0\KeysRepository.AssemblyInfo.cs
+E:\estudo C#\SleepChat-project\SleepChat-Backend-Repository\SleepChat\KeysRepository\obj\Debug\net8.0\KeysRepository.csproj.CoreCompileInputs.cache
+E:\estudo C#\SleepChat-project\SleepChat-Backend-Repository\SleepChat\KeysRepository\obj\Debug\net8.0\KeysRepository.sourcelink.json
+E:\estudo C#\SleepChat-project\SleepChat-Backend-Repository\SleepChat\KeysRepository\obj\Debug\net8.0\KeysRepository.dll
+E:\estudo C#\SleepChat-project\SleepChat-Backend-Repository\SleepChat\KeysRepository\obj\Debug\net8.0\refint\KeysRepository.dll
+E:\estudo C#\SleepChat-project\SleepChat-Backend-Repository\SleepChat\KeysRepository\obj\Debug\net8.0\KeysRepository.pdb
+E:\estudo C#\SleepChat-project\SleepChat-Backend-Repository\SleepChat\KeysRepository\obj\Debug\net8.0\ref\KeysRepository.dll

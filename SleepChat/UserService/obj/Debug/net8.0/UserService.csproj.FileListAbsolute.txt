@@ -151,3 +151,13 @@ E:\estudo C#\SleepChat-project\SleepChat-Backend-Repository\SleepChat\UserServic
 E:\estudo C#\SleepChat-project\SleepChat-Backend-Repository\SleepChat\UserService\obj\Debug\net8.0\UserService.pdb
 E:\estudo C#\SleepChat-project\SleepChat-Backend-Repository\SleepChat\UserService\obj\Debug\net8.0\UserService.genruntimeconfig.cache
 E:\estudo C#\SleepChat-project\SleepChat-Backend-Repository\SleepChat\UserService\obj\Debug\net8.0\ref\UserService.dll
+E:\estudo C#\SleepChat-project\SleepChat-Backend-Repository\SleepChat\UserService\bin\Debug\net8.0\SecurityServiceApi.deps.json
+E:\estudo C#\SleepChat-project\SleepChat-Backend-Repository\SleepChat\UserService\bin\Debug\net8.0\SecurityServiceApi.runtimeconfig.json
+E:\estudo C#\SleepChat-project\SleepChat-Backend-Repository\SleepChat\UserService\bin\Debug\net8.0\SecurityServiceApi.exe
+E:\estudo C#\SleepChat-project\SleepChat-Backend-Repository\SleepChat\UserService\bin\Debug\net8.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+E:\estudo C#\SleepChat-project\SleepChat-Backend-Repository\SleepChat\UserService\bin\Debug\net8.0\SecurityServiceApi.dll
+E:\estudo C#\SleepChat-project\SleepChat-Backend-Repository\SleepChat\UserService\bin\Debug\net8.0\WebHostExtensions.dll
+E:\estudo C#\SleepChat-project\SleepChat-Backend-Repository\SleepChat\UserService\bin\Debug\net8.0\SecurityServiceApi.pdb
+E:\estudo C#\SleepChat-project\SleepChat-Backend-Repository\SleepChat\UserService\bin\Debug\net8.0\WebHostExtensions.pdb
+E:\estudo C#\SleepChat-project\SleepChat-Backend-Repository\SleepChat\UserService\bin\Debug\net8.0\KeysRepository.dll
+E:\estudo C#\SleepChat-project\SleepChat-Backend-Repository\SleepChat\UserService\bin\Debug\net8.0\KeysRepository.pdb

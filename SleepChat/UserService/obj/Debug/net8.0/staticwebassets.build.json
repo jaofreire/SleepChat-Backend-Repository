@@ -1,11 +1,22 @@
 {
   "Version": 1,
-  "Hash": "z6AleSgYHRP1NQhFdxnNDIXFPcCBepdhD4ClwpditYs=",
+  "Hash": "IsRyt3OEcZSrRYEIVWph3SmY3Fj+QU/qC4dRV3cdrGk=",
   "Source": "UserService",
   "BasePath": "_content/UserService",
   "Mode": "Default",
   "ManifestType": "Build",
   "ReferencedProjectsConfiguration": [
+    {
+      "Identity": "E:\\estudo C#\\SleepChat-project\\SleepChat-Backend-Repository\\SleepChat\\SecurityServiceApi\\SecurityServiceApi.csproj",
+      "Version": 2,
+      "Source": "SecurityServiceApi",
+      "GetPublishAssetsTargets": "ComputeReferencedStaticWebAssetsPublishManifest;GetCurrentProjectPublishStaticWebAssetItems",
+      "AdditionalPublishProperties": "Configuration=Debug;Platform=AnyCPU",
+      "AdditionalPublishPropertiesToRemove": "WebPublishProfileFile;TargetFramework",
+      "GetBuildAssetsTargets": "GetCurrentProjectBuildStaticWebAssetItems",
+      "AdditionalBuildProperties": "Configuration=Debug;Platform=AnyCPU",
+      "AdditionalBuildPropertiesToRemove": "WebPublishProfileFile;TargetFramework"
+    },
     {
       "Identity": "E:\\estudo C#\\SleepChat-project\\SleepChat-Backend-Repository\\SleepChat\\SleepChat\\LoginService.csproj",
       "Version": 2,

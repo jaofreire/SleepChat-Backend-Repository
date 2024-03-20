@@ -1,11 +1,14 @@
+using KeysRepository;
 using Microsoft.EntityFrameworkCore;
 using UserService.RoutesManipulations;
+using WebHostExtensions;
 
 var builder = WebApplication.CreateBuilder(args);
 builder.Services.AddEntityFrameworkSqlServer().AddDbContext<ApiDbContext>(options =>
 {
-    options.UseSqlServer(builder.Configuration.GetConnectionString("DataBaseSql"));
+    options.UseSqlServer(Keys.connectionStringDb);
 });
+builder.Services.UseServiceSDK();
 builder.Services.AddEndpointsApiExplorer();
 builder.Services.AddSwaggerGen();
 
@@ -21,6 +24,8 @@ if (app.Environment.IsDevelopment())
 app.UseHttpsRedirection();
 
 RoutesUser.Map(app);
+
+app.UseServicesAuth();
 
 app.Run();
 

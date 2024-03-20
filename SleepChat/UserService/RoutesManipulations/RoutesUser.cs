@@ -4,7 +4,7 @@
     {
         public static void Map(WebApplication app)
         {
-            app.MapGroup("/user").MapGroupUser().WithTags("UserRoutes");
+            app.MapGroup("/user").MapGroupUser().WithTags("UserRoutes").RequireAuthorization("USER") ;
         }
     }
 }

@@ -1,3 +1,4 @@
+using KeysRepository;
 using LoginService.RouteManipulation;
 using Microsoft.EntityFrameworkCore;
 using Microsoft.EntityFrameworkCore.Infrastructure;
@@ -10,7 +11,7 @@ var builder = WebApplication.CreateBuilder(args);
 builder.Services.AddEndpointsApiExplorer();
 builder.Services.AddEntityFrameworkSqlServer().AddDbContext<ApiDbContext>(options =>
 {
-    options.UseSqlServer(builder.Configuration.GetConnectionString("DataBaseSql"));
+    options.UseSqlServer(Keys.connectionStringDb) ;
 });
 builder.Services.AddSwaggerGen();
 
@@ -35,6 +36,7 @@ public class UserModel
     public string? Name { get; set; }
     public string? Email { get; set; }
     public string? Password { get; set; }
+    public string? Role { get; set; }
 
 }
 
@@ -62,5 +64,6 @@ public class UserMap : IEntityTypeConfiguration<UserModel>
         builder.Property(x => x.Name).IsRequired();
         builder.Property(x => x.Email).IsRequired();
         builder.Property(x => x.Password).IsRequired();
+        builder.Property(x => x.Role);
     }
 }

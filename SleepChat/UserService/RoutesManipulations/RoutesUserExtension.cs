@@ -38,15 +38,22 @@ namespace UserService.RoutesManipulations
                 return Results.Ok(newUser);
             });
 
-
             group.MapGet("/byId/{id}", GetById);
-           
 
             group.MapGet("/getAll", async (ApiDbContext db) =>
             {
                 var users = await db.Users.ToListAsync();
 
                 return Results.Ok(users);
+            });
+
+            group.MapDelete("/remove/{id}", async (int id, ApiDbContext db) =>
+            {
+                var user = await db.Users.FindAsync(id) ??
+                 throw new Exception("User not found");
+
+                db.Users.Remove(user);
+                await db.SaveChangesAsync();
             });
 
 

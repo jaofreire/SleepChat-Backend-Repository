@@ -9,6 +9,7 @@ namespace LoginService.RouteManipulation
         {
             group.MapPost("/register", async (UserModel newUser , ApiDbContext db) =>
             {
+                newUser.Role = "USER";
                 await db.Users.AddAsync(newUser);
                 await db.SaveChangesAsync();
 

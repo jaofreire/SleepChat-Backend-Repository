@@ -8,11 +8,14 @@
 
   <ItemGroup>
     <PackageReference Include="Microsoft.AspNetCore.OpenApi" Version="8.0.3" />
-    <PackageReference Include="Swashbuckle.AspNetCore" Version="6.4.0" />
+    <PackageReference Include="Swashbuckle.AspNetCore" Version="6.5.0" />
   </ItemGroup>
 
   <ItemGroup>
+    <ProjectReference Include="..\KeysRepository\KeysRepository.csproj" />
+    <ProjectReference Include="..\SecurityServiceApi\SecurityServiceApi.csproj" />
     <ProjectReference Include="..\SleepChat\LoginService.csproj" />
+    <ProjectReference Include="..\WebHostExtensions\WebHostExtensions.csproj" />
   </ItemGroup>
 
 </Project>

@@ -273,3 +273,5 @@ E:\estudo C#\SleepChat-project\SleepChat-Backend-Repository\SleepChat\SleepChat\
 E:\estudo C#\SleepChat-project\SleepChat-Backend-Repository\SleepChat\SleepChat\obj\Debug\net8.0\LoginService.pdb
 E:\estudo C#\SleepChat-project\SleepChat-Backend-Repository\SleepChat\SleepChat\obj\Debug\net8.0\LoginService.genruntimeconfig.cache
 E:\estudo C#\SleepChat-project\SleepChat-Backend-Repository\SleepChat\SleepChat\obj\Debug\net8.0\ref\LoginService.dll
+E:\estudo C#\SleepChat-project\SleepChat-Backend-Repository\SleepChat\SleepChat\bin\Debug\net8.0\KeysRepository.dll
+E:\estudo C#\SleepChat-project\SleepChat-Backend-Repository\SleepChat\SleepChat\bin\Debug\net8.0\KeysRepository.pdb
